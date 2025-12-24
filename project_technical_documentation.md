@@ -48,6 +48,13 @@ and returns the result to the user.
    (for example: `java Main.java` or `python main.py`).
 4. Observe the output in the console or user interface.
 
+   ## Architecture Diagram
+![Architecture](architecture.png)
+
+## Application Flowchart
+![Flowchart](flowchart.png)
+
+
 ---
 
 ## Future Improvements
