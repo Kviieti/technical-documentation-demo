@@ -49,10 +49,10 @@ and returns the result to the user.
 4. Observe the output in the console or user interface.
 
    ## Architecture Diagram
-![Architecture](architecture.png)
+![Architecture](architecture.drawio.png)
 
 ## Application Flowchart
-![Flowchart](flowchart.png)
+![Flowchart](flowchart.drawio.png)
 
 
 ---
